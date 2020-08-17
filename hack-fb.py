@@ -41,41 +41,47 @@ ______█▒███▒██████__
 """)
 
 a = input("\033[1;33mUsername target/ID: ")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a = input("\033[1;33mUsername :
 os.system('clear')
-print ("\033[1;36m Server SQL: OKE ")
-sleep(0.5)
-print ("\033[1;36m Cek FACEBOOK VULN. ")
-sleep(2)
-print ("\033[1;36m Status VULN: Oke!.... ")
-print (' ')
-print (' ')
-print ("\033[1;32m Memulai SQL TARGET..... ")
-print (' ')
-ketik ("\033[1;32m Mengambil Data SQL....")
-sleep(0.5)
-ketik ("\033[1;32m Menggunakan SQL FACEBOOK...")
-sleep(0.5)
-ketik ("\033[1;32m Baypass Access LOG-IN...")
-sleep(0.5)
-print ("\033[1;32m Baypass Sukses! ")
-sleep(1)
-print (' ')
-
-ketik ("\033[1;32m Mencari Password SQL... ")
-sleep(2)
-ketik ("\033[1;32m Mendapatkan Password SQL...")
-sleep(0.5)
-ketik ("\033[1;32m Baypass LOG-IN SQL ")
-sleep(2)
-print ("\033[1;32m Baypass LOG-IN SQL Sukses! ")
-print (' ')
-
-print ("\033[1;32m Sedang Login FACEBOOK TARGET...")
+a = input("\033[1;33mpassword :
+os.system('clear')
 sleep(3)
-print (' ')
-print ("\033[1;33m Username : %s" % (a))
-print ("\033[1;33m Password : BISA DI UBAH SESUKA HATI KALIAN ")
-sleep(3)
+
+
+
+
 print (' ')
 print ("\033[1;32m Login Sukses! ")
 print (' ')
