@@ -99,8 +99,6 @@ z = open("pass.txt","w")
 
 pesan= """
 ---------------------
-Username: %s" % (a)) 
-Password: bisa di ubah
 ---------------------
 	"""
 z.write(pesan)
