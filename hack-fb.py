@@ -94,15 +94,6 @@ Note : Username dan password udah sukses
 """)
 print (' ')
 ketik ("\033[1;33m terimakasih bro 👍 ")
-
-z = open("pass.txt","w")
-
-pesan= """
----------------------
----------------------
-	"""
-z.write(pesan)
 z.close()
-
 os.system('mkdir /sdcard/Hasil')
 os.system('mv pass.txt /sdcard/Hasil')
