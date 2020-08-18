@@ -40,8 +40,8 @@ _____█▒████▒▒▒▒████
 ______█▒███▒██████__
 """)
 
-id = raw_input('\033[1;96m[+]\x1b[1;93mID/Email\x1b[1;91m:\x1b[1;92m')
-pwd =raw_input('\033[1;96m[+]\x1b[1;93mpassword\x1b[1;91m:\x1b[1;92m')
+id = input('\033[1;96m[+]\x1b[1;93mID/Email\x1b[1;91m:\x1b[1;92m')
+pwd = input('\033[1;96m[+]\x1b[1;93mpassword\x1b[1;91m:\x1b[1;92m')
 os.system('clear')
 print ("\033[1;36m Server SQL: OKE ")
 sleep(0.5)
