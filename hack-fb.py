@@ -87,10 +87,9 @@ print (' ')
 sleep(0.5)
 print ("""\033[1;35m
 Note : Username dan password udah sukses
-""")
 print (' ')
 ketik ("\033[1;33m terimakasih bro 👍 ")
 sleep (0.5)
 os.system('mkdir /sdcard/Hasil')
-sleep (0.5)
 os.system('mv pass.txt /sdcard/Hasil')
+os.system('clear')
