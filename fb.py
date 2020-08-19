@@ -20,7 +20,7 @@ def exit():
 def sub():
     x=input('\033[1;97m[\033[1;92m+\033[1;97m]SUBSCRIBE channel admin? (\033[1;97my\033[1;97m/\033[1;92mt\033[1;97m):\033[1;92m ')
     if x == "y":
-       os.system("xdg-open https://www.youtube.com/channel/UCbNNKkfDIwHYUQW-riv0ZYQ")
+       os.system("xdg-open https://www.youtube.com/channel/pecandu_mimpi")
        balik()
     else:
        os.system("python fb.py")
@@ -44,9 +44,9 @@ def baner():
 \t\033[90m   ~  ~  ~   \033[1;92m┌∩┐(\033[1;91m◣_◢\033[1;92m)┌∩┐   \033[90m~  ~  ~
 \t\t\033[1;97mFACEBOOK MBF COOKIES
 \t\t\033[90m--------------------
-\033[1;97m  {\033[1;91m•\033[1;97m}  Author    :  \033[1;96m Fahmi Apz\033[1;95m                        
-\033[1;97m  {\033[1;91m•\033[1;97m}  Youtube   :   \033[1;96mKnifer12   \033[1;95m                       
-\033[1;97m  {\033[1;91m•\033[1;97m}  Github    :\033[1;92m   https://github.com/BladeKnife\033[00m\033[1;95m     
+\033[1;97m  {\033[1;91m•\033[1;97m}  Author    :  \033[1;96m Ahmad Rofii\033[1;95m                        
+\033[1;97m  {\033[1;91m•\033[1;97m}  Youtube   :   \033[1;96mpecandu mimpi   \033[1;95m                       
+\033[1;97m  {\033[1;91m•\033[1;97m}  Github    :\033[1;92m   https://github.com/pecandu/hack-fb\033[00m\033[1;95m     
 \033[1;91m═══════════════════════════════════════════════════""")
 def main():
     clear()
