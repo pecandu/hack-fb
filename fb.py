@@ -20,7 +20,7 @@ def exit():
 def sub():
     x=input('\033[1;97m[\033[1;92m+\033[1;97m]SUBSCRIBE channel admin? (\033[1;97my\033[1;97m/\033[1;92mt\033[1;97m):\033[1;92m ')
     if x == "y":
-       os.system("xdg-open https://www.youtube.com/channel/pecandu_mimpi")
+       os.system("xdg-open https://www.youtube.com/channel/UC_4F1e1qzKmTr7-Up5i_fGg")
        balik()
     else:
        os.system("python fb.py")
